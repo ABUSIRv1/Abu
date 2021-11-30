@@ -2,14 +2,14 @@
 <div align="center">
   <img border-radius: 15px src="Abu.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="Sophia" src="https://img.shields.io/badge/Sophia-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="ABUSIRv1" src="https://img.shields.io/badge/ABUSIRv1-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/ameer-kallumthodi"><img title="Author" src="https://img.shields.io/badge/Hisham-Muhammed/Sophia?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/ameer-kallumthodi"><img title="Author" src="https://img.shields.io/badge/ABUSIRv1-Muhammed/Sophia?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://youtube.com/c/ICHUTECH">TOXIDE-SER</a> to make it public
+Project created by <a href="https://youtube.com/c/ICHUTECH">ABUSIRv1</a> to make it public
     <br>
        | © |
         Reserved |
@@ -46,7 +46,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TOXIDE-SER/Anjali.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ABUSIRv1/Abu.git)
      </div>
 <br>
 <br >
@@ -61,8 +61,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/TOXIDE-SER/Anjali
-$ cd Anjali
+$ git clone https://github.com/ABUSIRv1/Abu
+$ cd Abu
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -71,8 +71,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/TOXIDE-SER/Anjali
-$ cd Anjali
+$ git clone https://github.com/ABUSIRv1/Abu
+$ cd Abu
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -80,7 +80,7 @@ $ node qr.js
 $ node bot.js
 ```
 
-## BOT CODED AND PUBLISHED BY TOXIDE-SER ©2021
+## BOT CODED AND PUBLISHED BY ABUSIRv1 ©2021
 
 * [ KILLADY TOXIDE FFC ](http://wa.me/919048329892) 
 
